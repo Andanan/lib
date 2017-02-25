@@ -1,0 +1,15 @@
+######################################################
+# Copyright Feb-2017 Andanan                         #
+# libAnda-fx: https://github.com/Andanan/libAnda-fx/ #
+######################################################
+
+IMPORTANT: This temporary licence will soon be replaced with a proper licence.
+
+Until not specified differently, you are for now not allowed to modify the code of this project.
+You may also not distribute the source code or the compiled files of the library without this license file.
+
+You are however allowed to use this library in your software, as long as your software is not commercial.
+It is not obligatory to include the source code of this library in any distribution of your product.
+
+The author of this library can not be made responsible for any damages resulting from the usage of this library.
+This means: Use this library on your own risk.
